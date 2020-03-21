@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+python-dotenv
+
+matplotlib
+opencv-python
+pyzbar[scripts]
+
+pdf2image
